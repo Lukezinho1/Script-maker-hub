@@ -22,7 +22,13 @@ Ele reúne **várias ferramentas úteis** para desenvolvedores, exploradores e s
 **Ideal para quem quer um hub funcional sem frescura.**
 
 ---
+## 🚀 Executar via Loadstring
 
+Cole este código no seu executor Roblox:
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lukezinho1/Script-maker-hub/refs/heads/main/main.lua"))()
+```
 ## 🧾 Licença
 
 > Este script é de **uso livre** e **código aberto**.
