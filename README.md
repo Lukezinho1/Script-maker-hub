@@ -57,9 +57,6 @@ Se esse projeto te ajudou, **considere se inscrever no canal e deixar um like no
 
 ---
 
-## 📷 Imagem de Exemplo (opcional)
+## 📷 Exemplo visual
 
-> *(Coloque aqui uma imagem ou gif do hub rodando. Você pode usar um print do Roblox e subir no repositório como `hub-preview.png`, depois adicionar aqui abaixo)*
-
-```markdown
 ![Preview do Hub](hub-preview.png)
